@@ -1,0 +1,4 @@
+mne>=1.8.0
+matplotlib>=3.9.0
+scikit-learn>=1.6.0
+

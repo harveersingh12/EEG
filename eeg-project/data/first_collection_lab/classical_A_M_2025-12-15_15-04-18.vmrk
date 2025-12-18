@@ -1,0 +1,24 @@
+BrainVision Data Exchange Marker File, Version 1.0
+; Data created by EEMAGINE EEG Data Exporter
+
+[Common Infos]
+DataFile=classical_A_M_2025-12-15_15-04-18.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "\1".
+Mk1=New Segment,,1,1,0,20251215150418162000
+Mk2=Marker,Impedance,0,1,0
+Mk3=Marker,Impedance,7847,1,0
+Mk4=New Segment,,7850,1,0,20251215150450602000
+Mk5=Marker,Impedance,7850,1,0
+Mk6=Stimulus,s1000,58037,500,0
+Mk7=Stimulus,s1050,137992,1654,0
+Mk8=Stimulus,s1050,178744,251,0
+Mk9=Stimulus,s1050,208191,683,0
+Mk10=Stimulus,s1050,268203,324,0
+Mk11=Stimulus,s1050,298115,610,0
+Mk12=Stimulus,s1050,335627,682,0
+Mk13=Marker,Impedance,651017,1,0
