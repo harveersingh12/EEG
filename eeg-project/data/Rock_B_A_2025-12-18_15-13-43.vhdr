@@ -2,8 +2,8 @@ BrainVision Data Exchange Header File Version 1.0
 ; Data created by EEMAGINE EEG Data Exporter
 
 [Common Infos]
-DataFile=B_A_2025-12-18_15-13-43.eeg
-MarkerFile=B_A_2025-12-18_15-13-43.vmrk
+DataFile=Rock_B_A_2025-12-18_15-13-43.eeg
+MarkerFile=Rock_B_A_2025-12-18_15-13-43.vmrk
 DataFormat=BINARY
 ; Data orientation: MULTIPLEXED=ch1,pt1, ch2,pt1 ...
 DataOrientation=MULTIPLEXED
