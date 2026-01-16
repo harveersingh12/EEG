@@ -167,7 +167,6 @@ The notebook is organized into the following sections:
 6. Peak iAF analysis for showing shifts in peak frequency across phases
 7. Channel/region-specific analysis (optional)
 8. Time course within phases (early vs late meditation comparison) (optional)
-9. Group-level analysis: Smoothing individual effects by grouping subjects by music condition (Rock vs Classical)
 
 ## Data Files
 
