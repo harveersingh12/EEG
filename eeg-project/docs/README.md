@@ -159,14 +159,11 @@ The notebook is organized into the following sections:
 
 ## Future Enhancements (TO-DO)
 
-1. Full ICA implementation with automated artifact detection
+1. Full ICA implementation with automated artifact detection 
 2. Phase-specific PSD plotting
-3. Statistical tests for baseline vs meditation (paired t-test or repeated measures ANOVA)
-4. Calculate effect sizes and percentage changes (magnitude of change)
-5. Visualizations comparing phases, line plots showing changes
-6. Peak iAF analysis for showing shifts in peak frequency across phases
-7. Channel/region-specific analysis (optional)
-8. Time course within phases (early vs late meditation comparison) (optional)
+3. Peak iAF analysis for showing shifts in peak frequency across phases
+4. Channel/region-specific analysis (optional)
+5. Time course within phases (early vs late meditation comparison) (optional)
 
 ## Data Files
 
